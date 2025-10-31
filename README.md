@@ -1,5 +1,4 @@
 <!-- 🎀 Elegant Baby Pink GitHub Profile README by Asrar Fallatah 🎀 -->
-<div align="center">
 
 # 💫 About Me  
 
@@ -10,11 +9,7 @@ My main focus is on **web application development** and **Java backend programmi
 I am also expanding my expertise in **Swift** and **iOS app development** to build elegant and user-friendly mobile experiences.  
 My vision is to become a **versatile developer** capable of delivering seamless, high-quality solutions across both web and mobile platforms.  
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🌐 Connect With Me  
 
@@ -39,15 +34,29 @@ My vision is to become a **versatile developer** capable of delivering seamless,
 
 ## 📊 GitHub Statistics  
 
-![](https://github-readme-stats.vercel.app/api?username=Asrarfallatah&theme=rose_pine&hide_border=true&bg_color=FFC0CB&title_color=ffffff&text_color=ffffff&icon_color=ffffff)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Asrarfallatah&theme=rose_pine&hide_border=true&background=FFC0CB&stroke=fff&ring=fff)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrarfallatah&layout=compact&theme=rose_pine&hide_border=true&bg_color=FFC0CB&title_color=ffffff&text_color=ffffff)
+<div align="left">
+
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Asrarfallatah&show_icons=true&theme=transparent&hide_border=true&title_color=FFC0CB&icon_color=FFC0CB&text_color=000000" />
+</a>
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asrarfallatah&layout=compact&theme=transparent&hide_border=true&title_color=FFC0CB&text_color=000000" />
+</a>
+
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://streak-stats.demolab.com?user=Asrarfallatah&theme=transparent&hide_border=true&ring=FFC0CB&fire=FFC0CB&currStreakLabel=FFC0CB" />
+</a>
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://github-contributor-stats.vercel.app/api?username=Asrarfallatah&limit=5&theme=transparent&combine_all_yearly_contributions=true&title_color=FFC0CB&text_color=000000" />
+</a>
+
+</div>
 
 ---
 
 ## 🏆 Achievements  
 
-![](https://github-profile-trophy.vercel.app/?username=Asrarfallatah&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Asrarfallatah&theme=flat&no-frame=true&margin-w=8&title=ffc0cb)
 
 ---
 
@@ -57,20 +66,9 @@ My vision is to become a **versatile developer** capable of delivering seamless,
 
 ---
 
-## 🌸 Visitors  
-
-[![](https://visitcount.itsvg.in/api?id=Asrarfallatah&icon=5&color=FFC0CB)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🎀 Thank you for visiting my profile 💖  
 Let’s connect, collaborate, and create something beautiful through code.  
 
-</div>
+---
 
-<!-- 💗 Crafted by Asrar Fallatah | Baby Pink Professional Theme 💗 -->
-
+<!-- 💗 Crafted by Asrar Fallatah | Professional Baby Pink Theme 💗 -->
