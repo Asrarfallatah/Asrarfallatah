@@ -56,19 +56,28 @@ My vision is to become a **versatile developer** capable of delivering seamless,
 
 ## 🏆 Achievements  
 
-![](https://github-profile-trophy.vercel.app/?username=Asrarfallatah&theme=flat&no-frame=true&margin-w=8&title=ffc0cb)
+<div align="left">
 
----
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=Asrarfallatah&theme=flat&no-frame=true&column=3&margin-w=10&margin-h=10&title_color=FFC0CB&text_color=000000" />
+</a>
 
-## ✨ Inspirational Quote  
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asrarfallatah&theme=transparent&title_color=FFC0CB&text_color=000000" />
+</a>
 
-> 🌷 *"Code with passion, design with purpose, and build with elegance."*  
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asrarfallatah&theme=transparent&title_color=FFC0CB&text_color=000000" />
+</a>
+
+<a href="https://github.com/Asrarfallatah">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asrarfallatah&theme=transparent&title_color=FFC0CB&text_color=000000" />
+</a>
+
+</div>
 
 ---
 
 ### 🎀 Thank you for visiting my profile 💖  
 Let’s connect, collaborate, and create something beautiful through code.  
 
----
-
-<!-- 💗 Crafted by Asrar Fallatah | Professional Baby Pink Theme 💗 -->
