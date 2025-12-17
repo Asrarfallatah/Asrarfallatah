@@ -1,4 +1,4 @@
-<!-- 🎀 Elegant Baby Pink GitHub Profile README by Asrar Fallatah 🎀 -->
+
 
 # 💫 About Me  
 
@@ -23,9 +23,6 @@ My vision is to become a **versatile developer** capable of delivering seamless,
 ![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-FFC0CB?style=for-the-badge&logo=spring&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FFC0CB?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=white)
