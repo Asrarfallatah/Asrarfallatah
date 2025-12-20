@@ -1,13 +1,20 @@
-
-
 # 💫 About Me  
 
-🎓 **Computer Engineer** | 💻 **Future Web & iOS Developer** | ☕ **Java Backend Enthusiast**  
+🎓 **Computer Engineer** | 💻 **Backend & Web Developer** | ☕ **Java & Spring Boot Enthusiast**
 
-I am a Computer Engineer passionate about creating innovative and efficient digital solutions.  
-My main focus is on **web application development** and **Java backend programming**, transforming ideas into functional, real-world systems.  
-I am also expanding my expertise in **Swift** and **iOS app development** to build elegant and user-friendly mobile experiences.  
-My vision is to become a **versatile developer** capable of delivering seamless, high-quality solutions across both web and mobile platforms.  
+I am a Computer Engineer passionate about building **scalable and efficient software systems**.  
+My primary focus is **Java backend development using Spring Boot**, where I enjoy designing clean RESTful APIs, enforcing business logic, and working with relational databases.
+
+Alongside backend development, I am expanding my skills in **web technologies** and **Swift / iOS development** to create intuitive and user-friendly mobile applications.  
+My goal is to become a **well-rounded developer** capable of delivering reliable, high-quality solutions across backend, web, and mobile platforms.
+
+---
+
+## 🚀 Current Focus
+- Building backend systems using **Java & Spring Boot**
+- Designing **RESTful APIs** with clean architecture
+- Practicing database modeling and business logic enforcement
+- Exploring **Swift** and **iOS development** fundamentals
 
 ---
 
@@ -21,7 +28,8 @@ My vision is to become a **versatile developer** capable of delivering seamless,
 ## 💻 Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-FFC0CB?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FFC0CB?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FFC0CB?style=for-the-badge&logo=swagger&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FFC0CB?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=white)
@@ -76,5 +84,4 @@ My vision is to become a **versatile developer** capable of delivering seamless,
 ---
 
 ### 🎀 Thank you for visiting my profile 💖  
-Let’s connect, collaborate, and create something beautiful through code.  
-
+Let’s connect, collaborate, and build meaningful software together.
