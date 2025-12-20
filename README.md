@@ -1,70 +1,16 @@
-# About Me
+# 💫 About Me:
+I am a Computer Engineer with a strong focus on building backend web applications using Java and Spring Boot, designing scalable server-side systems, RESTful APIs, and reliable business logic. I enjoy transforming ideas into structured, real-world web solutions backed by clean architecture and relational databases. Alongside Java backend development, I am expanding my expertise in Swift, with growing interest in backend logic and iOS application development within the Apple ecosystem. My goal is to become a versatile backend-focused engineer capable of delivering high-quality solutions across both Java-based web systems and Swift-powered platforms.
 
-**Computer Engineer | Backend & Web Developer | Java & Spring Boot**
 
-I am a Computer Engineer with a strong interest in building **reliable, scalable backend systems**.  
-My primary focus is **Java backend development using Spring Boot**, where I work on designing RESTful APIs, implementing business logic, and managing relational databases with clean, maintainable architecture.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/asrar-fallatah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asrarfallatah21@gmail.com) 
 
-In parallel, I am developing my skills in **web technologies** and **Swift / iOS development** to broaden my technical scope and build user-focused applications.  
-My goal is to grow as a **well-rounded software developer** capable of delivering high-quality solutions across backend, web, and mobile platforms.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asrarfallatah&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Asrarfallatah&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrarfallatah&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## Current Focus
-- Backend development using **Java & Spring Boot**
-- Designing and implementing **RESTful APIs**
-- Applying clean architecture and layered design
-- Database modeling and business rule enforcement
-- Learning **Swift** and **iOS development** fundamentals
-
----
-
-## Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/asrar-fallatah/)  
-[Email](mailto:Asrarfallatah21@gmail.com)
-
----
-
-## Tech Stack
-- **Languages:** Java, Swift  
-- **Backend:** Spring Boot, REST APIs  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub, Postman  
-
----
-
-## GitHub Statistics
-
-<div align="left">
-
-<a href="https://github.com/Asrarfallatah">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Asrarfallatah&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/Asrarfallatah">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asrarfallatah&layout=compact&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/Asrarfallatah">
-  <img height="150" src="https://streak-stats.demolab.com?user=Asrarfallatah&theme=transparent&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## Achievements
-
-<div align="left">
-
-<a href="https://github.com/Asrarfallatah">
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=Asrarfallatah&no-frame=true&column=3&margin-w=10&margin-h=10" />
-</a>
-
-</div>
-
----
-
-**Thank you for visiting my profile.**  
-I am always open to learning, collaboration, and meaningful software projects.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Asrarfallatah&limit=5&theme=default&combine_all_yearly_contributions=true)
