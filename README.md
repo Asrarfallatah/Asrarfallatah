@@ -1,6 +1,4 @@
-# Asrar Fallatah
-
-## About me
+# About me
 As a Computer Engineer, I specialize in developing robust backend web applications using Java and Spring Boot, with a focus on designing scalable server-side systems, RESTful APIs, and reliable business logic. I excel at transforming ideas into efficient, real-world web solutions supported by clean architecture and relational databases. In addition to my expertise in Java backend development, I am expanding my skills in Swift, with a growing interest in backend logic and iOS application development within the Apple ecosystem. My objective is to become a versatile backend-focused engineer capable of delivering high-quality solutions across Java-based web systems and Swift-powered platforms.
 
 ##  Socials & Contact
