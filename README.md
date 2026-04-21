@@ -15,12 +15,6 @@ a Computer Engineer, specialized in developing robust backend web applications u
 ![](https://nirzak-streak-stats.vercel.app/?user=Asrarfallatah&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrarfallatah&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asrarfallatah&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asrarfallatah&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
 ## Featured Projects
 ###  Bnyan System (Spring Boot)
 Web-based construction project management platform addressing fragmented communication and lack of transparency in construction. Provides unified environment for landowners, buyers, and stakeholders to manage project lifecycle, assign specialists, track progress, schedule meetings, and integrate payments and AI recommendations. Developed as a group project using Java and Spring Boot.  
