@@ -10,11 +10,6 @@ a Computer Engineer, specialized in developing robust backend web applications u
 - **Design Tools**: Canva, Figma
 - **Other**: RESTful APIs, Clean Architecture, Relational Databases
 
-#  GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Asrarfallatah&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Asrarfallatah&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrarfallatah&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Featured Projects
 ###  Bnyan System (Spring Boot)
 Web-based construction project management platform addressing fragmented communication and lack of transparency in construction. Provides unified environment for landowners, buyers, and stakeholders to manage project lifecycle, assign specialists, track progress, schedule meetings, and integrate payments and AI recommendations. Developed as a group project using Java and Spring Boot.  
