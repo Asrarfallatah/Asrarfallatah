@@ -1,51 +1,61 @@
-# About me
-a Computer Engineer, specialized in developing robust backend web applications using Java and Spring Boot, with a focus on designing scalable server-side systems, RESTful APIs, and reliable business logic. I excel at transforming ideas into efficient, real-world web solutions supported by clean architecture and relational databases. In addition to my expertise in Java backend development, I am expanding my skills in Swift, with a growing interest in backend logic and iOS application development within the Apple ecosystem. My objective is to become a versatile backend-focused engineer capable of delivering high-quality solutions across Java-based web systems and Swift-powered platforms.
+# About Me
 
-##  Socials & Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asrar-fallatah)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asrarfallatah21@gmail.com)
+ a Computer Engineer, specialized in developing robust backend web applications using Java and Spring Boot, with a focus on designing scalable server-side systems, RESTful APIs, and reliable business logic. I excel at transforming ideas into efficient, real-world web solutions supported by clean architecture and relational databases. In addition to my expertise in Java backend development, I am expanding my skills in Swift, with a growing interest in backend logic and iOS application development within the Apple ecosystem. My objective is to become a versatile backend-focused engineer capable of delivering high-quality solutions across Java-based web systems and Swift-powered platforms.
+
+---
+
+## Socials & Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asrar-fallatah)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asrarfallatah21@gmail.com)
+
+[Portfolio Website](https://asrarfallatah.github.io/asrar-fallatah-portfolio)
+
+---
 
 ## Skills
-- **Programming Languages**: Java, Swift
-- **Frameworks & Tools**: Spring Boot, AWS, MySQL, Git, GitHub , Xcode
-- **Design Tools**: Canva, Figma
-- **Other**: RESTful APIs, Clean Architecture, Relational Databases
+
+- **Programming Languages:** Java, Swift, SQL
+- **Backend Development:** Spring Boot, RESTful APIs, JPA/Hibernate
+- **Databases:** MySQL, Relational Databases
+- **Tools & Platforms:** Git, GitHub, Maven, Xcode, AWS
+- **Software Design:** Clean Architecture, Object-Oriented Programming, Business Logic Design
+- **Design Tools:** Figma, Canva
+
+---
 
 ## Featured Projects
-###  Bnyan System (Spring Boot)
-Web-based construction project management platform addressing fragmented communication and lack of transparency in construction. Provides unified environment for landowners, buyers, and stakeholders to manage project lifecycle, assign specialists, track progress, schedule meetings, and integrate payments and AI recommendations. Developed as a group project using Java and Spring Boot.  
-🔗 https://github.com/Asrarfallatah/Bnyan-System
 
-###  Banking Management System (Spring Boot)
-Backend system simulating core banking operations including deposits, withdrawals, transfers, role-based validation, and secure business logic enforcement.  
-🔗 https://github.com/Asrarfallatah/Banking-Management-System-Project
+### Bnyan System | Spring Boot
 
-###  RosnamaKSA – Smart Events Platform (Spring Boot)
-Centralized event management platform for Saudi Arabia with scheduling automation, external event integration (SerpAPI), and AI-assisted recommendation features.  
-🔗 https://github.com/Asrarfallatah/RosnamaKSA-System
+A web-based construction project management platform designed to reduce fragmented communication and improve transparency in construction workflows.
 
-###  E-Commerce System (Spring Boot)
-Spring Boot backend e-commerce system implementing REST APIs, product management, user balance handling, merchant earnings calculation, and role-based validations.  
-🔗 https://github.com/Asrarfallatah/e-commerce
+The system provides a unified environment for landowners, buyers, specialists, and stakeholders to manage project lifecycles, assign specialists, track progress, schedule meetings, and support payment and AI recommendation features.
 
-###  Fazza Event Planner System (Spring Boot)
-Backend event planning platform managing client requests, approvals, representative teams, workflow validation, and structured feedback handling.  
-🔗 https://github.com/Asrarfallatah/Fazza-System
+Developed as a group project using Java and Spring Boot.
 
-###  Car Pooling System (Java)
-Java-based system demonstrating object-oriented programming concepts such as inheritance, abstraction, polymorphism, and exception handling.  
-🔗 https://github.com/Asrarfallatah/CarPooling-System-Project
+🔗 [Repository](https://github.com/Asrarfallatah/Bnyan-System)
 
-###  Tic Tac Toe Game (Java)
-Simple Java game implementing game logic, user interaction, and control flow fundamentals.  
-🔗 https://github.com/Asrarfallatah/Tic-Tac-Toe-Game-Project
+---
 
-###  War Card Game (Swift)
-iOS card game built using Swift, focusing on game logic, UI interaction, and state management.  
-🔗 https://github.com/Asrarfallatah/SwiftProjects/tree/main/War%20Card%20Game
+### Fazza Event Planner System | Spring Boot
 
-###  Secrets App (Swift)
-iOS profile application developed using Swift to practice.  
-🔗 https://github.com/Asrarfallatah/SwiftProjects/tree/main/Secrets%20App
+A backend event planning platform that manages client requests, approvals, representative teams, workflow validation, and structured feedback handling.
 
+🔗 [Repository](https://github.com/Asrarfallatah/Fazza-System)
 
+---
 
+### War Card Game | Swift
+
+An iOS card game built using Swift, focusing on game logic, user interface interaction, and state management.
+
+🔗 [Repository](https://github.com/Asrarfallatah/SwiftProjects/tree/main/War%20Card%20Game)
+
+---
+
+### Secrets App | Swift
+
+An iOS profile-style application built with Swift to practice interface design, navigation, and basic app structure.
+
+🔗 [Repository](https://github.com/Asrarfallatah/SwiftProjects/tree/main/Secrets%20App)
